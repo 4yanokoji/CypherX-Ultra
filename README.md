@@ -48,7 +48,7 @@
 ### Step 2: Get a Session ID
 
 <p align="center">
-  <a href="https://upair1-addd0c4dadbd.herokuapp.com/" target="_blank">
+  <a href="https://uxpair-08eaa0cdf162.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Server_1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
   </a>
   <a href="https://upair2-5a3a58f1526f.herokuapp.com/" target="_blank">
